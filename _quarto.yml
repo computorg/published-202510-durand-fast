@@ -7,9 +7,7 @@ diagram:
       header-includes:
         - '\usetikzlibrary{arrows}'
         
-title: "Fast confidence bounds for the false discovery proportion 
-  over a path of hypotheses"
-# subtitle: ""
+title: "Fast confidence bounds for the false discovery proportion over a path of hypotheses"
 author:
   - name: Guillermo Durand
     corresponding: true
@@ -40,6 +38,8 @@ citation:
   doi: "10.57750/efbs-ef14"
   publisher: "French Statistical Society"
   issn: "2824-7795"
+  url: "https://computo-journal.org/published-202510-durand-fast/"
+  issued: "2025-10-09"
 bibliography: algo-curve.bib
 github-user: computorg
 repo: "published-202510-durand-fast"
