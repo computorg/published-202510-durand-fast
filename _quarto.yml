@@ -41,6 +41,13 @@ citation:
   url: "https://computo-journal.org/published-202510-durand-fast/"
   issued: "2025-10-09"
 bibliography: algo-curve.bib
+related-identifiers:
+  - relation: IsVersionOf
+    type: arXiv
+    identifier: "2502.03849"
+  - relation: IsVersionOf
+    type: URL
+    identifier: "https://hal.science/hal-04927594"
 github-user: computorg
 repo: "published-202510-durand-fast"
 draft: false
