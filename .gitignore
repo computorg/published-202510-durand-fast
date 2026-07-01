@@ -31,3 +31,5 @@ tikz/tikz.aux
 tikz/tikz.log
 tikz/tikz.synctex.gz
 tikz/tikz.pdf
+
+**/*.quarto_ipynb
