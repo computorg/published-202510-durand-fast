@@ -4,7 +4,7 @@ Guillermo Durand
 
 [![build and
 publish](https://github.com/computorg/published-202510-durand-fast/actions/workflows/build.yml/badge.svg)](https://github.com/computorg/published-202510-durand-fast/actions/workflows/build.yml)
-[![DOI:10.57750/efbs-ef14](https://img.shields.io/badge/DOI-10.57750/efbs-ef14-034E79.svg)](https://doi.org/10.57750/efbs-ef14)
+[![DOI:10.57750/efbs-ef14](https://img.shields.io/badge/DOI-10.57750/efbs--ef14-034E79.svg)](https://doi.org/10.57750/efbs-ef14)
 [![Creative Commons
 License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
