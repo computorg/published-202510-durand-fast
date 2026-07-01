@@ -4,7 +4,7 @@ Guillermo Durand
 
 [![build and
 publish](https://github.com/computorg/published-202510-durand-fast/actions/workflows/build.yml/badge.svg)](https://github.com/computorg/published-202510-durand-fast/actions/workflows/build.yml)
-[![DOI:10.57750/efbs-ef14](https://img.shields.io/badge/DOI-10.57750/efbs--ef14-034E79.svg)](https://doi.org/10.57750/efbs-ef14)
+[![DOI:10.57750/efbs-ef14](https://img.shields.io/badge/DOI-10.57750/efbs-ef14-034E79.svg)](https://doi.org/10.57750/efbs-ef14)
 [![Creative Commons
 License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
@@ -24,16 +24,17 @@ License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommo
 This paper presents a new algorithm (and an additional trick) that
 allows to compute fastly an entire curve of post hoc bounds for the
 False Discovery Proportion when the underlying bound
-$V_{R}^{\ast}$ construction is based on a reference family
-${R}$ with a forest structure à la Durand et al. (2020). By an
+$V_{\mathfrak{R}}^{\ast}$ construction is based on a reference family
+$\mathfrak{R}$ with a forest structure à la Durand et al. (2020). By an
 entire curve, we mean the values
-$V_{R}^{\ast}(S_1),\dotsc,V_{R}^{\ast}(S_m)$ computed on a
-path of increasing selection sets $S_1\subsetneq\dotsb\subsetneq S_m$,
-$|S_t|=t$. The new algorithm leverages the fact that going from $S_t$ to
-$S_{t+1}$ is done by adding only one hypothesis. Compared to a more
-naive approach, the new algorithm has a complexity in $O(|\mathcal K|m)$
-instead of $O(|\mathcal K|m^2)$, where $|\mathcal K|$ is the cardinality
-of the family.
+$V_{\mathfrak{R}}^{\ast}(S_1),\dotsc,V_{\mathfrak{R}}^{\ast}(S_m)$
+computed on a path of increasing selection sets
+$S_1\subsetneq\dotsb\subsetneq S_m$, $|S_t|=t$. The new algorithm
+leverages the fact that going from $S_t$ to $S_{t+1}$ is done by adding
+only one hypothesis. Compared to a more naive approach, the new
+algorithm has a complexity in $O(|\mathcal K|m)$ instead of
+$O(|\mathcal K|m^2)$, where $|\mathcal K|$ is the cardinality of the
+family.
 
 <div id="refs" class="references csl-bib-body hanging-indent">
 
