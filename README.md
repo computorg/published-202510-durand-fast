@@ -24,10 +24,10 @@ License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommo
 This paper presents a new algorithm (and an additional trick) that
 allows to compute fastly an entire curve of post hoc bounds for the
 False Discovery Proportion when the underlying bound
-$V^{\ast}_{R}$ construction is based on a reference family
+$V_{R}^{\ast}$ construction is based on a reference family
 ${R}$ with a forest structure à la Durand et al. (2020). By an
 entire curve, we mean the values
-$V^{\ast}_{R}(S_1),\dotsc,V^{*}_{R}(S_m)$ computed on a
+$V_{R}^{\ast}(S_1),\dotsc,V_{R}^{\ast}(S_m)$ computed on a
 path of increasing selection sets $S_1\subsetneq\dotsb\subsetneq S_m$,
 $|S_t|=t$. The new algorithm leverages the fact that going from $S_t$ to
 $S_{t+1}$ is done by adding only one hypothesis. Compared to a more
