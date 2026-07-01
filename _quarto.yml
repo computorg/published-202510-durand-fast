@@ -50,8 +50,7 @@ related-identifiers:
     identifier: "https://hal.science/hal-04927594"
 github-user: computorg
 repo: "published-202510-durand-fast"
-draft: false
-published: true
+status: published
 google-scholar: true
 number-sections: true
 format:
