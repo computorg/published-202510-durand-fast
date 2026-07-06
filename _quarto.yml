@@ -1,6 +1,6 @@
 project:
   render: 
-    - published-202510-durand-fast.qmd
+    - main.qmd
     - README.qmd
 
 diagram:

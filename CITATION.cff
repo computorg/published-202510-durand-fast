@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: If you use or cite this article, please use the metadata provided in 'preferred-citation'.
+title: Fast confidence bounds for the false discovery proportion over a path of hypotheses
+authors:
+- family-names: Durand
+  given-names: Guillermo
+  orcid: https://orcid.org/0000-0003-4056-5631
+  affiliation: Université Paris-Saclay, CNRS, Inria, Laboratoire de Mathématiques
+    d'Orsay, 91405, Orsay, France
+url: https://computo-journal.org/published-202510-durand-fast/
+preferred-citation:
+  type: article
+  title: Fast confidence bounds for the false discovery proportion over a path of
+    hypotheses
+  authors:
+  - family-names: Durand
+    given-names: Guillermo
+    orcid: https://orcid.org/0000-0003-4056-5631
+    affiliation: Université Paris-Saclay, CNRS, Inria, Laboratoire de Mathématiques
+      d'Orsay, 91405, Orsay, France
+  journal: Computo
+  issn: 2824-7795
+  url: https://computo-journal.org/published-202510-durand-fast/
+  publisher:
+    name: Société Française de Statistique
+  doi: 10.57750/efbs-ef14
+  year: 2025
+doi: 10.57750/efbs-ef14
+date-released: '2025-10-09'
