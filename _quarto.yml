@@ -17,7 +17,7 @@ author:
     url: https://durandg12.github.io/
     orcid: 0000-0003-4056-5631
     affiliation: "[Université Paris-Saclay](https://www.universite-paris-saclay.fr/), [CNRS](https://www.cnrs.fr), [Inria](https://team.inria.fr/celeste/), [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr), 91405, Orsay, France"
-date: 10-09-2025
+date: 2025-10-09
 date-modified: last-modified
 abstract: >+
   This paper presents a new algorithm (and an additional trick) that allows to compute fastly 
