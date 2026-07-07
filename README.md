@@ -2,22 +2,24 @@
 Guillermo Durand
 2025-10-09
 
+### Citation
+
+Guillermo Durand (October 2025). Fast confidence bounds for the false discovery proportion over a path of hypotheses. Computo.
+<https://doi.org/10.57750/efbs-ef14>
+
+### Badges
+
 [![build and
 publish](https://github.com/computorg/published-202510-durand-fast/actions/workflows/build.yml/badge.svg)](https://github.com/computorg/published-202510-durand-fast/actions/workflows/build.yml)
-[![DOI:10.57750/efbs-ef14](https://img.shields.io/badge/DOI-10.57750/efbs--ef14-034E79.svg)](https://doi.org/10.57750/efbs-ef14)
+[![reviews](https://img.shields.io/badge/review-report-blue)](https://github.com/computorg/published-202510-durand-fast/issues?q=is%3Aopen+is%3Aissue+label%3Areview)
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/computorg/published-202510-durand-fast)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/computorg/published-202510-durand-fast)
+[![DOI:10.57750/efbs-ef14](https://img.shields.io/badge/DOI-10.57750%2Fefbs--ef14-034E79.svg)](https://doi.org/10.57750/efbs-ef14)
 [![Creative Commons
 License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
-[![](https://img.shields.io/badge/review-report-blue.png)](https://github.com/computorg/published-202510-durand-fast/issues?q=is%3Aopen+is%3Aissue+label%3Areview)
+### Authors’ affiliations
 
-### Authors
-
-- [Guillermo Durand](https://durandg12.github.io/) ([Université
-  Paris-Saclay](https://www.universite-paris-saclay.fr/),
-  [CNRS](https://www.cnrs.fr), [Inria](https://team.inria.fr/celeste/),
-  [Laboratoire de Mathématiques
-  d’Orsay](https://www.imo.universite-paris-saclay.fr), 91405, Orsay,
-  France)
+- [Guillermo Durand](https://durandg12.github.io/) (Université Paris-Saclay, CNRS, Inria, Laboratoire de Mathématiques d’Orsay, 91405, Orsay, France)
 
 ### Abstract
 
