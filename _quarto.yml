@@ -54,24 +54,9 @@ status: published
 google-scholar: true
 number-sections: true
 format:
-  computo-html: 
-    html-math-method: mathjax
-    include-in-header:
-      - text: |
-          <script>
-          window.MathJax = {
-            tex: {
-              tags: 'ams'
-            }
-          };
-          </script>
+  computo-html:
     crossrefs-hover: false
-  computo-pdf: 
-    include-in-header:
-      - text: |
-          \usepackage{amsmath}
+  computo-pdf:
     cite-method: natbib
     natbiboptions: round
-    keep-tex: true
     crossrefs-hover: false
-    pdf-engine: pdflatex
